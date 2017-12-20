@@ -1,0 +1,9 @@
+$wrapper-styles: (
+    '.wrapper': (
+        'margin-top': box-model('margin', 'base'),
+        'margin-bottom': box-model('margin', 'base'),
+        'padding-left': box-model('padding', 'base'),
+        'padding-right': box-model('padding', 'base'),
+        'max-width': viewport('widescreen', 'min-width')
+    )
+) !default;

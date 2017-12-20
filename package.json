@@ -1,0 +1,23 @@
+{
+    "name": "totem.module.wrapper",
+    "version": "0.4.2",
+    "description": "Create horizontal layouts like we did in the nineties",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/toolbarthomas/totem.module.wrapper.git"
+    },
+    "keywords": [
+        "totem",
+        "totem.module.wrapper",
+        "module"
+    ],
+    "author": "Thomas van der Velde <contact@toolbarthomas.net>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/toolbarthomas/totem.module.wrapper/issues"
+    },
+    "homepage": "https://github.com/toolbarthomas/totem.module.wrapper#readme"
+}
